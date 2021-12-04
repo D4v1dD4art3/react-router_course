@@ -10,6 +10,19 @@ html {
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  background-color: #010a14;
 }
 
+main {
+  margin-top: 7rem;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+ul,
+li,
+p {
+  color: #a0bfe9;
+}
